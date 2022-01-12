@@ -1,4 +1,4 @@
-from django.apps import AppConfig
+flkdfajslkdfalskdfjalskdfjlkasdfjlkasdfjlkrom django.apps import AppConfig
 
 
 class FirstConfig(AppConfig):
