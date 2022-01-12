@@ -1,3 +1,4 @@
-from django.contrib import admin
+fsldkfajsdlkf
+rom django.contrib import admin
 
 # Register your models here.
